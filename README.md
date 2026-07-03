@@ -7,7 +7,6 @@ Project UAS Pemrograman Web 2
 - **Nama** : Dedi Ramadhan
 - **NIM** : 312410171
 - **Mata Kuliah** : Pemrograman Web 2
-- **Dosen** : *(Isi nama dosen jika diperlukan)*
 
 ---
 
